@@ -1,6 +1,6 @@
 # Agenda using https://learnlayout.com/display
 
-1. Block lements - div, span
+1. Block lements - div, span. div is not inline but span is inline container/block element.
 2. display property
 3. margin, width, max-width
 4. box model using padding, margin and border
