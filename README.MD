@@ -1,3 +1,9 @@
+# React App Steps
+1. Create a new react app with TypeScript (You can use JavaScript as well)
+    - npx create-react-app 
+
+
+
 # Agenda using https://learnlayout.com/display
 
 1. Block lements - div, span. div is not inline but span is inline container/block element.
