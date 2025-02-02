@@ -24,3 +24,5 @@
 14. CSS Grid Layout
 15. CSS Flexbox
 16. Responsive Web Design - CSS way
+ 
+commments by rudra
