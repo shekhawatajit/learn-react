@@ -2,6 +2,8 @@
 1. Create a new react app with TypeScript (You can use JavaScript as well)
     - npx create-react-app 
 
+# Template used for leanring
+    https://htmlcodex.com/demo/?item=2824
 
 
 # Agenda using https://learnlayout.com/display
